@@ -6,13 +6,8 @@
 ---
 
 ## Tecnologias que eu estudo e uso
-<div><br>
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img align="center" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-    <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nestjs,java,python,docker&perline=6"/>
 </div><br/><br/>
 
 💻 Estudante de programação | Apaixonado por tecnologia e resolução de problemas!  
@@ -22,5 +17,5 @@
 ## 🪐 Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CarlosNiz/CarlosNiz/main/profile-3d-contrib/profile-season-animate.svg" alt="Sistema Solar de Contribuições"/>
+  <img src="https://raw.githubusercontent.com/CarlosNiz/CarlosNiz/main/profile-3d-contrib/profile-night-view.svg" alt="Sistema Solar de Contribuições"/>
 </div>
