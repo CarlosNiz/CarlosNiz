@@ -7,7 +7,7 @@
 
 ## Tecnologias que eu estudo e uso
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,react,angular,nestjs,java,python,docker&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=linux,cpp,typescript,react,angular,nestjs,java,python,docker&perline=3"/>
 </div><br/><br/>
 
 💻 Estudante de programação | Apaixonado por tecnologia e resolução de problemas!  
