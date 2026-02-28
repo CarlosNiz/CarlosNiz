@@ -22,5 +22,5 @@
 ## 🪐 Contribuições
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Sistema Solar de Contribuições"/>
+  <img src="https://raw.githubusercontent.com/CarlosNiz/CarlosNiz/main/profile-3d-contrib/profile-season-animate.svg" alt="Sistema Solar de Contribuições"/>
 </div>
