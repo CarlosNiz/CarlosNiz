@@ -14,7 +14,7 @@
 
 ## Tecnologias que eu uso
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,typescript,react,php,java,docker&perline=3"/>
+  <img src="https://skillicons.dev/icons?i=linux,typescript,react,angular,php,java,docker&perline=3"/>
 </div><br/><br/>
 
 ## Tecnologias que estou estudando no momento
