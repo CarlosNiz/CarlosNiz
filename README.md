@@ -14,7 +14,7 @@
 
 ## Linguagens que eu uso e estudo
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,cs,cpp&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=js,python,java,cs,cpp&perline=5"/>
 </div><br/><br/>
 
 📚 Formado em **Análise e Desenvolvimento de Sistemas** 
