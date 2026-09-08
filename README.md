@@ -12,14 +12,9 @@
 
 </div>
 
-## Tecnologias que eu uso
+## Linguagens que eu uso e estudo
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,typescript,react,angular,php,java,docker&perline=3"/>
-</div><br/><br/>
-
-## Tecnologias que estou estudando no momento
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=php,java,rust&perline=3"/>
+  <img src="https://skillicons.dev/icons?i=js,java,cs,cpp&perline=5"/>
 </div><br/><br/>
 
 📚 Formado em **Análise e Desenvolvimento de Sistemas** 
