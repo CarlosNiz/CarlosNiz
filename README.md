@@ -19,7 +19,7 @@
 
 📚 Formado em **Análise e Desenvolvimento de Sistemas** 
 
-🤖 Brasileiro, dev e sobrevivente da era da IA — ainda escrevendo código com as próprias mãos (nem sempre).
+🤖 Brasileiro, dev e sobrevivente da era da IA. Ainda escrevendo código com as próprias mãos (nem sempre).
 
 ```yaml
  █████╗ ██╗     ██╗    ██╗ █████╗ ██╗   ██╗███████╗
